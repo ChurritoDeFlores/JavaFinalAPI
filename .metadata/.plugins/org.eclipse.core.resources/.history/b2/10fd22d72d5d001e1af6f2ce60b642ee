@@ -1,0 +1,21 @@
+package com.example.demo.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.example.demo.models.dao.IClienteDAO;
+
+@Controller
+public class ClienteController {
+	@Autowired
+	private IClienteDAO clienteDAO;
+	
+	@GetMapping("/listar")
+	public String Listar(Model model) {
+		model.addAttribute("titulo","listado de clientes");
+		model.addAttribute("clientes", clienteDAO.FindAll());
+		return "Listar";
+	}
+}

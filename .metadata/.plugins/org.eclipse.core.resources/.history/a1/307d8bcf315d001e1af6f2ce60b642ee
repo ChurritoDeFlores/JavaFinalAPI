@@ -1,0 +1,5 @@
+String.datasource.url=jdbc:h2:mem:clientesdb;
+String.datasource.username=Fernando;
+String.datasource.password=sa;
+String.datasource.driver-class-name=org.h2.Driver;
+String.h2.console.enabled=true;

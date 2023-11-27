@@ -1,0 +1,13 @@
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Fabian','Veschi','fveschi@gmail.com','2023-09-27','4f3d4f90-d94b-4429-974f-7fecdf47fb79-fabiVeschi.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Fernando','Cosentino','fcosentino@gmail.com','2023-09-28','742b5012-ad5f-459a-a078-7f46d8399bac-ferCos.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Patricio','Castro','pcastro@gmail.com','2023-09-29','369e3f85-5770-4c4d-bbf6-862444aa7af5-patoCast.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Francisco','Garibotto','fgaribotto@gmail.com','2023-09-30','bdd10a79-ab84-4ce9-9ea0-061dd6f6d0bc-franGari.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Franco','Spatocco','fspatocco@gmail.com','2023-10-01','6ee88191-af22-4f01-8823-ce314f584ae7-franSpa.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Belen','Giri','bgiri@gmail.com','2023-10-02','f367faae-ba86-4565-9cf6-33c6026af991-bel_giri.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Ivan','Valeff','ivaleff@gmail.com','2023-10-03','491e0bfe-357c-4ead-9cf3-bb3dd119621e-ivan_valeff.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Matias','Lupo','mlupo@gmail.com','2023-10-04','048602fb-df98-4bf3-b397-582e4fcbb090-matias_lupo.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Agustin','Luparini','aluparini@gmail.com','2023-10-05','c249991d-b765-4d7e-8d1a-d39c535fe8c1-agustin_luparini.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Federico','Vera','fvera@gmail.com','2023-10-06','c0b556c4-7cc4-4b5a-b544-b783ca697842-fede_vera.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Ezequiel','de la Fuente','edlafuente@gmail.com','2023-10-07','b5b683e6-88a2-47dd-bd09-0607123d8538-eze_delafuente.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Alexis','Lacoste','alacoste@gmail.com','2023-10-08','338c1d92-88f9-4228-87cd-c3c571944fd5-alexis_lacoste.jpg');
+INSERT INTO clientes (nombre,apellido,email,create_at,foto) VALUES ('Cristian','Coll','criscoll@gmail.com','2023-10-09','8afdef51-adb6-441d-96eb-4610ad182c5c-cris_coll.jpg');

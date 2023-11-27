@@ -1,0 +1,5 @@
+INSERT into clientes (nombre,apellido,email,create_at) VALUES ("Fabian","Veschi","fveschi@gmail.com","2023-09-27");
+INSERT into clientes (nombre,apellido,email,create_at) VALUES ("Fernando","Cosentino","fcosentino@gmail.com","2023-09-28");
+INSERT into clientes (nombre,apellido,email,create_at) VALUES ("Patricio","Castro","pcastro@gmail.com","2023-09-29");
+INSERT into clientes (nombre,apellido,email,create_at) VALUES ("Francisco","Garibotto","fgaribotto@gmail.com","2023-09-30");
+INSERT into clientes (nombre,apellido,email,create_at) VALUES ("Franco","Spatocco","fspatocco@gmail.com","2023-10-01");
