@@ -20,7 +20,7 @@ public class MVCConfig  implements WebMvcConfigurer{
 	@Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
-                .allowedOrigins("http://localhost:5176") // Reemplaza con la URL de tu aplicación React
+                .allowedOrigins("http://localhost:5177") // Reemplaza con la URL de tu aplicación React
                 .allowedMethods("GET", "POST", "PATCH", "DELETE")
                 .allowedHeaders("Origin", "Content-Type", "Accept", "Authorization")
                 .allowCredentials(true);
